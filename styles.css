@@ -1,0 +1,36 @@
+* {
+    font-family: Tahoma, sans-serif;
+}
+
+h1, h2, h3{
+    font-family: Georgia, serif;
+    font-weight: bold;
+    color: #091
+    
+}
+
+P {
+    font-family: Georgia, serif;
+    font-weight: bold;
+    color: whitesmoke;
+}
+
+A {
+    font-family: Georgia, serif;
+    font-weight: bold;
+    color: whitesmoke;
+}
+strong {
+    font-family: 'Courier New', monospace;
+    font-weight: bold;
+    color:gold;
+}
+
+body{
+    background-color: darkred;
+}
+li{
+    font-family: Georgia, serif;
+    font-weight: bold;
+    color: whitesmoke;
+}
